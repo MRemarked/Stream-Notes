@@ -6,3 +6,5 @@ Fourier Series Stream notes: [Fourier Series Stream Notes 01](Fourier-Series-Str
 
 [Pencenter Left Hand Rule](Extra-Shorter-Notes/Pencenter_Left_Hand_Trig_Rule.png)
 
+Signals and Systems: [Fourier Transforms from Signals and Systems L11](Signals-and-Systems-Stream-Notes/Fourier_Transforms_Signals_and_Systems_L11_part1.pdf)
+
