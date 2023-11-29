@@ -4,3 +4,5 @@ Circuits Stream: [Amplifier Circuits Friday September 29](Circuit-Stream-Notes/A
 
 Fourier Series Stream notes: [Fourier Series Stream Notes 01](Fourier-Series-Stream-Notes/Meri_Fourier_Series_Stream_Notes_01.pdf)
 
+[Pencenter Left Hand Rule](Extra-Shorter-Notes/Pencenter_Left_Hand_Trig_Rule.png)
+
