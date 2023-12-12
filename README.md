@@ -8,6 +8,9 @@ Fourier Series Stream notes: [Fourier Series Stream Notes 01](Fourier-Series-Str
 
 Signals and Systems: [Fourier Transforms from Signals and Systems L11](Signals-and-Systems-Stream-Notes/Fourier_Transforms_Signals_and_Systems_L11_part1.pdf) and the [rest](Signals-and-Systems-Stream-Notes/Signals_and_Systems_L11_Fourier_Transforms.pdf)
 
+Signals and Systems [Properties of Fourier Transforms](Signals-and-Systems-Stream-Notes/Signals_and_Systems_L12_Fourier_Transform_Properties.pdf)
+
+
 
 
 
